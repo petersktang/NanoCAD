@@ -4,3 +4,6 @@ It works under modern JVMS.
 Found it here: http://server.ccl.net/cca/software/SOURCES/JAVA/ncad/unpacked/ncad.html
 Maybe sometime it will be of historical interest.
 Also, I found source code very understandable.
+
+rebuild using gradle, run 
+./gradlew run
