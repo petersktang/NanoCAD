@@ -35,7 +35,7 @@ public class wrapper extends Frame
   public MenuBar menubar;
   public wrapper ()
     {
-      this.setTitle ("NanoCAD in Java - January 1999");
+      this.setTitle ("NanoCAD in Java - January 1999/tested 2019");
       this.resize(800, 600);
       
       nc = new nanocad();
